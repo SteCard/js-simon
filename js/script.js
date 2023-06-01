@@ -6,7 +6,7 @@ let arrayRandom = [];
 let num_random = document.getElementById('numbers');
 
 // VARIABILE TIMER 30s
-let timer = 3
+let timer = 30
 
 //FUNZIONE PER NUMERI CASUALI
 function create_num(min, max){
